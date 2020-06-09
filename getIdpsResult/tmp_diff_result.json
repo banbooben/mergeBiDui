@@ -1,0 +1,2425 @@
+{
+  "create_time": "2020-05-26 10:59:47",
+  "diff_type": 2,
+  "diff_type_name": "扫描件比对",
+  "extended": {
+    "user_conf": {
+      "filter_blank": true,
+      "filter_header_footer": true,
+      "filter_other_char": true,
+      "filter_punc": true,
+      "remove_other_list": [],
+      "remove_punc_list": [
+        "–",
+        "!",
+        ",",
+        ":",
+        "(",
+        ")",
+        "[",
+        "]",
+        "}",
+        "\"",
+        "'",
+        "\\",
+        "/",
+        "‰",
+        "。",
+        "，",
+        "、",
+        "＇",
+        "：",
+        "∶",
+        "；",
+        "?",
+        "‘",
+        "’",
+        "“",
+        "”",
+        "〝",
+        "〞",
+        "ˆ",
+        "ˇ",
+        "﹕",
+        "︰",
+        "﹔",
+        "﹖",
+        "﹑",
+        "·",
+        "¨",
+        "…",
+        ".",
+        "¸",
+        ";",
+        "！",
+        "´",
+        "？",
+        "～",
+        "—",
+        "ˉ",
+        "｜",
+        "‖",
+        "＂",
+        "〃",
+        "｀",
+        "@",
+        "﹫",
+        "¡",
+        "¿",
+        "﹏",
+        "﹋",
+        "﹌",
+        "︴",
+        "々",
+        "﹟",
+        "#",
+        "﹩",
+        "$",
+        "﹠",
+        "&",
+        "﹪",
+        "%",
+        "*",
+        "﹡",
+        "﹢",
+        "﹦",
+        "﹤",
+        "‐",
+        "￣",
+        "¯",
+        "―",
+        "﹨",
+        "˜",
+        "﹍",
+        "﹎",
+        "+",
+        "=",
+        "<",
+        "＿",
+        "_",
+        "-",
+        "~",
+        "﹉",
+        "﹊",
+        "（",
+        "）",
+        "〈",
+        "〉",
+        "‹",
+        "›",
+        "﹛",
+        "﹜",
+        "『",
+        "』",
+        "〖",
+        "〗",
+        "［",
+        "］",
+        "《",
+        "》",
+        "〔",
+        "〕",
+        "{",
+        "「",
+        "」",
+        "【",
+        "】",
+        "︵",
+        "︷",
+        "︿",
+        "︹",
+        "︽",
+        "﹁",
+        "﹃",
+        "︻",
+        "︶",
+        "︸",
+        "﹀",
+        "︺",
+        "︾",
+        "﹂",
+        "﹄",
+        "︼"
+      ]
+    }
+  },
+  "id": 4,
+  "last_update_time": "2020-05-27 18:41:49",
+  "result": {
+    "diff": {
+      "diff_content_distribution": {
+        "number": 0,
+        "other": 93,
+        "punc": 0
+      },
+      "diff_type_distribution": {
+        "delete": 2,
+        "insert": 41,
+        "replace": 50
+      },
+      "result": [
+        {
+          "content_type": "other",
+          "diff_type": "delete",
+          "origin_text": {
+            "page": 1,
+            "range_list": [
+              [
+                19,
+                20
+              ]
+            ],
+            "start": 19,
+            "word": "启"
+          },
+          "target_text": {
+            "direction": "left",
+            "page": 1,
+            "range_list": [],
+            "start": 1,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 1,
+            "range_list": [
+              [
+                20,
+                35
+              ]
+            ],
+            "start": 20,
+            "word": "ZHONGYUAN BAN K"
+          },
+          "target_text": {
+            "page": 1,
+            "range_list": [
+              [
+                5,
+                20
+              ]
+            ],
+            "start": 5,
+            "word": "现金管理系统测试项目工作说明书"
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "right",
+            "page": 2,
+            "range_list": [],
+            "start": 101,
+            "word": ""
+          },
+          "target_text": {
+            "page": 2,
+            "range_list": [
+              [
+                116,
+                121
+              ]
+            ],
+            "start": 116,
+            "word": "工作说明书"
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 3,
+            "range_list": [
+              [
+                181,
+                182
+              ]
+            ],
+            "start": 181,
+            "word": "l"
+          },
+          "target_text": {
+            "page": 3,
+            "range_list": [
+              [
+                973,
+                1116
+              ]
+            ],
+            "start": 973,
+            "word": "............................................................................................................................................. 1"
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "right",
+            "page": 4,
+            "range_list": [],
+            "start": 601,
+            "word": ""
+          },
+          "target_text": {
+            "page": 4,
+            "range_list": [
+              [
+                3971,
+                3975
+              ]
+            ],
+            "start": 3971,
+            "word": "第II页"
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 6,
+            "range_list": [],
+            "start": 826,
+            "word": ""
+          },
+          "target_text": {
+            "page": 5,
+            "range_list": [
+              [
+                8026,
+                8031
+              ]
+            ],
+            "start": 8026,
+            "word": "第III页"
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 8,
+            "range_list": [
+              [
+                2293,
+                2294
+              ]
+            ],
+            "start": 2293,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 8,
+            "range_list": [
+              [
+                13197,
+                13198
+              ]
+            ],
+            "start": 13197,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 8,
+            "range_list": [
+              [
+                2359,
+                2360
+              ]
+            ],
+            "start": 2359,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 8,
+            "range_list": [
+              [
+                13265,
+                13266
+              ]
+            ],
+            "start": 13265,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 9,
+            "range_list": [
+              [
+                2514,
+                2515
+              ]
+            ],
+            "start": 2514,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 9,
+            "range_list": [
+              [
+                13423,
+                13424
+              ]
+            ],
+            "start": 13423,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 9,
+            "range_list": [
+              [
+                2552,
+                2553
+              ]
+            ],
+            "start": 2552,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 9,
+            "range_list": [
+              [
+                13463,
+                13464
+              ]
+            ],
+            "start": 13463,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 16,
+            "range_list": [],
+            "start": 6392,
+            "word": ""
+          },
+          "target_text": {
+            "page": 16,
+            "range_list": [
+              [
+                17657,
+                17659
+              ]
+            ],
+            "start": 17657,
+            "word": "7)"
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 17,
+            "range_list": [
+              [
+                6756,
+                6757
+              ]
+            ],
+            "start": 6756,
+            "word": ">"
+          },
+          "target_text": {
+            "page": 17,
+            "range_list": [
+              [
+                18059,
+                18060
+              ]
+            ],
+            "start": 18059,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 17,
+            "range_list": [
+              [
+                6801,
+                6802
+              ]
+            ],
+            "start": 6801,
+            "word": ">"
+          },
+          "target_text": {
+            "page": 17,
+            "range_list": [
+              [
+                18107,
+                18108
+              ]
+            ],
+            "start": 18107,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 18,
+            "range_list": [
+              [
+                7655,
+                7656
+              ]
+            ],
+            "start": 7655,
+            "word": ">"
+          },
+          "target_text": {
+            "page": 18,
+            "range_list": [
+              [
+                18987,
+                18988
+              ]
+            ],
+            "start": 18987,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 19,
+            "range_list": [
+              [
+                7774,
+                7775
+              ]
+            ],
+            "start": 7774,
+            "word": ">"
+          },
+          "target_text": {
+            "page": 19,
+            "range_list": [
+              [
+                19112,
+                19113
+              ]
+            ],
+            "start": 19112,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 19,
+            "range_list": [
+              [
+                8114,
+                8115
+              ]
+            ],
+            "start": 8114,
+            "word": ">"
+          },
+          "target_text": {
+            "page": 19,
+            "range_list": [
+              [
+                19472,
+                19473
+              ]
+            ],
+            "start": 19472,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 20,
+            "range_list": [],
+            "start": 8590,
+            "word": ""
+          },
+          "target_text": {
+            "page": 20,
+            "range_list": [
+              [
+                19969,
+                19970
+              ]
+            ],
+            "start": 19969,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 20,
+            "range_list": [],
+            "start": 9050,
+            "word": ""
+          },
+          "target_text": {
+            "page": 20,
+            "range_list": [
+              [
+                20437,
+                20438
+              ]
+            ],
+            "start": 20437,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 20,
+            "range_list": [
+              [
+                9241,
+                9242
+              ]
+            ],
+            "start": 9241,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 20,
+            "range_list": [
+              [
+                20638,
+                20639
+              ]
+            ],
+            "start": 20638,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 21,
+            "range_list": [
+              [
+                9337,
+                9338
+              ]
+            ],
+            "start": 9337,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 21,
+            "range_list": [
+              [
+                20740,
+                20741
+              ]
+            ],
+            "start": 20740,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 21,
+            "range_list": [
+              [
+                9433,
+                9434
+              ]
+            ],
+            "start": 9433,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 21,
+            "range_list": [
+              [
+                20839,
+                20840
+              ]
+            ],
+            "start": 20839,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 21,
+            "range_list": [
+              [
+                9487,
+                9488
+              ]
+            ],
+            "start": 9487,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 21,
+            "range_list": [
+              [
+                20897,
+                20898
+              ]
+            ],
+            "start": 20897,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12385,
+                12386
+              ]
+            ],
+            "start": 12385,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                23840,
+                23841
+              ]
+            ],
+            "start": 23840,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12397,
+                12398
+              ]
+            ],
+            "start": 12397,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                23854,
+                23855
+              ]
+            ],
+            "start": 23854,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12410,
+                12411
+              ]
+            ],
+            "start": 12410,
+            "word": "."
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                23869,
+                23870
+              ]
+            ],
+            "start": 23869,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12424,
+                12425
+              ]
+            ],
+            "start": 12424,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                23885,
+                23886
+              ]
+            ],
+            "start": 23885,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12449,
+                12450
+              ]
+            ],
+            "start": 12449,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                23915,
+                23916
+              ]
+            ],
+            "start": 23915,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12459,
+                12460
+              ]
+            ],
+            "start": 12459,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                23927,
+                23928
+              ]
+            ],
+            "start": 23927,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12472,
+                12473
+              ]
+            ],
+            "start": 12472,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                23942,
+                23943
+              ]
+            ],
+            "start": 23942,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12507,
+                12508
+              ]
+            ],
+            "start": 12507,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                23982,
+                23983
+              ]
+            ],
+            "start": 23982,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12582,
+                12583
+              ]
+            ],
+            "start": 12582,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                24059,
+                24060
+              ]
+            ],
+            "start": 24059,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12598,
+                12599
+              ]
+            ],
+            "start": 12598,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                24077,
+                24078
+              ]
+            ],
+            "start": 24077,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12664,
+                12665
+              ]
+            ],
+            "start": 12664,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                24145,
+                24146
+              ]
+            ],
+            "start": 24145,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12674,
+                12675
+              ]
+            ],
+            "start": 12674,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                24157,
+                24158
+              ]
+            ],
+            "start": 24157,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12696,
+                12697
+              ]
+            ],
+            "start": 12696,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                24181,
+                24182
+              ]
+            ],
+            "start": 24181,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12719,
+                12720
+              ]
+            ],
+            "start": 12719,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                24206,
+                24207
+              ]
+            ],
+            "start": 24206,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12733,
+                12734
+              ]
+            ],
+            "start": 12733,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                24222,
+                24223
+              ]
+            ],
+            "start": 24222,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12770,
+                12771
+              ]
+            ],
+            "start": 12770,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                24261,
+                24262
+              ]
+            ],
+            "start": 24261,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 25,
+            "range_list": [
+              [
+                12800,
+                12801
+              ]
+            ],
+            "start": 12800,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 25,
+            "range_list": [
+              [
+                24293,
+                24294
+              ]
+            ],
+            "start": 24293,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 26,
+            "range_list": [
+              [
+                12846,
+                12847
+              ]
+            ],
+            "start": 12846,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 26,
+            "range_list": [
+              [
+                24342,
+                24343
+              ]
+            ],
+            "start": 24342,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 26,
+            "range_list": [
+              [
+                12877,
+                12878
+              ]
+            ],
+            "start": 12877,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 26,
+            "range_list": [
+              [
+                24375,
+                24376
+              ]
+            ],
+            "start": 24375,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 26,
+            "range_list": [
+              [
+                12885,
+                12886
+              ]
+            ],
+            "start": 12885,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 26,
+            "range_list": [
+              [
+                24385,
+                24386
+              ]
+            ],
+            "start": 24385,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 26,
+            "range_list": [
+              [
+                12892,
+                12893
+              ]
+            ],
+            "start": 12892,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 26,
+            "range_list": [
+              [
+                24393,
+                24396
+              ]
+            ],
+            "start": 24393,
+            "word": ". "
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 26,
+            "range_list": [
+              [
+                12902,
+                12903
+              ]
+            ],
+            "start": 12902,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 26,
+            "range_list": [
+              [
+                24407,
+                24408
+              ]
+            ],
+            "start": 24407,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 26,
+            "range_list": [
+              [
+                12915,
+                12916
+              ]
+            ],
+            "start": 12915,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 26,
+            "range_list": [
+              [
+                24422,
+                24423
+              ]
+            ],
+            "start": 24422,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "delete",
+          "origin_text": {
+            "page": 27,
+            "range_list": [
+              [
+                13224,
+                13277
+              ]
+            ],
+            "start": 13224,
+            "word": "则试管理领导(行方)项目总监 (天阳)则试项目经理(甲方)则试项目经理(乙方)则试专家系统则试组则试管理组"
+          },
+          "target_text": {
+            "direction": "left",
+            "page": 27,
+            "range_list": [],
+            "start": 24743,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 29,
+            "range_list": [],
+            "start": 14699,
+            "word": ""
+          },
+          "target_text": {
+            "page": 29,
+            "range_list": [
+              [
+                26307,
+                26308
+              ]
+            ],
+            "start": 26307,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 29,
+            "range_list": [],
+            "start": 14707,
+            "word": ""
+          },
+          "target_text": {
+            "page": 29,
+            "range_list": [
+              [
+                26318,
+                26319
+              ]
+            ],
+            "start": 26318,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 29,
+            "range_list": [],
+            "start": 14717,
+            "word": ""
+          },
+          "target_text": {
+            "page": 29,
+            "range_list": [
+              [
+                26331,
+                26332
+              ]
+            ],
+            "start": 26331,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 29,
+            "range_list": [],
+            "start": 14727,
+            "word": ""
+          },
+          "target_text": {
+            "page": 29,
+            "range_list": [
+              [
+                26344,
+                26345
+              ]
+            ],
+            "start": 26344,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 31,
+            "range_list": [],
+            "start": 16146,
+            "word": ""
+          },
+          "target_text": {
+            "page": 31,
+            "range_list": [
+              [
+                27803,
+                27804
+              ]
+            ],
+            "start": 27803,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 31,
+            "range_list": [],
+            "start": 16160,
+            "word": ""
+          },
+          "target_text": {
+            "page": 31,
+            "range_list": [
+              [
+                27820,
+                27821
+              ]
+            ],
+            "start": 27820,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 31,
+            "range_list": [],
+            "start": 16170,
+            "word": ""
+          },
+          "target_text": {
+            "page": 31,
+            "range_list": [
+              [
+                27833,
+                27834
+              ]
+            ],
+            "start": 27833,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 31,
+            "range_list": [],
+            "start": 16195,
+            "word": ""
+          },
+          "target_text": {
+            "page": 31,
+            "range_list": [
+              [
+                27861,
+                27862
+              ]
+            ],
+            "start": 27861,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 32,
+            "range_list": [],
+            "start": 16768,
+            "word": ""
+          },
+          "target_text": {
+            "page": 32,
+            "range_list": [
+              [
+                28453,
+                28454
+              ]
+            ],
+            "start": 28453,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 32,
+            "range_list": [],
+            "start": 16857,
+            "word": ""
+          },
+          "target_text": {
+            "page": 32,
+            "range_list": [
+              [
+                28545,
+                28546
+              ]
+            ],
+            "start": 28545,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 32,
+            "range_list": [],
+            "start": 16922,
+            "word": ""
+          },
+          "target_text": {
+            "page": 32,
+            "range_list": [
+              [
+                28613,
+                28614
+              ]
+            ],
+            "start": 28613,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 32,
+            "range_list": [],
+            "start": 16987,
+            "word": ""
+          },
+          "target_text": {
+            "page": 32,
+            "range_list": [
+              [
+                28685,
+                28686
+              ]
+            ],
+            "start": 28685,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 32,
+            "range_list": [],
+            "start": 17009,
+            "word": ""
+          },
+          "target_text": {
+            "page": 32,
+            "range_list": [
+              [
+                28710,
+                28711
+              ]
+            ],
+            "start": 28710,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 32,
+            "range_list": [
+              [
+                17024,
+                17025
+              ]
+            ],
+            "start": 17024,
+            "word": ":"
+          },
+          "target_text": {
+            "page": 32,
+            "range_list": [
+              [
+                28727,
+                28730
+              ]
+            ],
+            "start": 28727,
+            "word": "; "
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 32,
+            "range_list": [],
+            "start": 17073,
+            "word": ""
+          },
+          "target_text": {
+            "page": 32,
+            "range_list": [
+              [
+                28780,
+                28781
+              ]
+            ],
+            "start": 28780,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 32,
+            "range_list": [],
+            "start": 17093,
+            "word": ""
+          },
+          "target_text": {
+            "page": 32,
+            "range_list": [
+              [
+                28803,
+                28804
+              ]
+            ],
+            "start": 28803,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 32,
+            "range_list": [],
+            "start": 17148,
+            "word": ""
+          },
+          "target_text": {
+            "page": 32,
+            "range_list": [
+              [
+                28863,
+                28864
+              ]
+            ],
+            "start": 28863,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 32,
+            "range_list": [],
+            "start": 17157,
+            "word": ""
+          },
+          "target_text": {
+            "page": 32,
+            "range_list": [
+              [
+                28875,
+                28876
+              ]
+            ],
+            "start": 28875,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 32,
+            "range_list": [],
+            "start": 17184,
+            "word": ""
+          },
+          "target_text": {
+            "page": 32,
+            "range_list": [
+              [
+                28905,
+                28906
+              ]
+            ],
+            "start": 28905,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 32,
+            "range_list": [],
+            "start": 17262,
+            "word": ""
+          },
+          "target_text": {
+            "page": 32,
+            "range_list": [
+              [
+                28990,
+                28991
+              ]
+            ],
+            "start": 28990,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 32,
+            "range_list": [],
+            "start": 17284,
+            "word": ""
+          },
+          "target_text": {
+            "page": 32,
+            "range_list": [
+              [
+                29015,
+                29016
+              ]
+            ],
+            "start": 29015,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 33,
+            "range_list": [],
+            "start": 17329,
+            "word": ""
+          },
+          "target_text": {
+            "page": 33,
+            "range_list": [
+              [
+                29067,
+                29068
+              ]
+            ],
+            "start": 29067,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 33,
+            "range_list": [],
+            "start": 17449,
+            "word": ""
+          },
+          "target_text": {
+            "page": 33,
+            "range_list": [
+              [
+                29190,
+                29191
+              ]
+            ],
+            "start": 29190,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 33,
+            "range_list": [],
+            "start": 17456,
+            "word": ""
+          },
+          "target_text": {
+            "page": 33,
+            "range_list": [
+              [
+                29200,
+                29201
+              ]
+            ],
+            "start": 29200,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 33,
+            "range_list": [],
+            "start": 17479,
+            "word": ""
+          },
+          "target_text": {
+            "page": 33,
+            "range_list": [
+              [
+                29227,
+                29228
+              ]
+            ],
+            "start": 29227,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 33,
+            "range_list": [],
+            "start": 17566,
+            "word": ""
+          },
+          "target_text": {
+            "page": 33,
+            "range_list": [
+              [
+                29315,
+                29316
+              ]
+            ],
+            "start": 29315,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 34,
+            "range_list": [
+              [
+                18322,
+                18323
+              ]
+            ],
+            "start": 18322,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 34,
+            "range_list": [
+              [
+                30169,
+                30170
+              ]
+            ],
+            "start": 30169,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 34,
+            "range_list": [
+              [
+                18336,
+                18337
+              ]
+            ],
+            "start": 18336,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 34,
+            "range_list": [
+              [
+                30185,
+                30186
+              ]
+            ],
+            "start": 30185,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 34,
+            "range_list": [
+              [
+                18352,
+                18353
+              ]
+            ],
+            "start": 18352,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 34,
+            "range_list": [
+              [
+                30202,
+                30203
+              ]
+            ],
+            "start": 30202,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 34,
+            "range_list": [
+              [
+                18371,
+                18372
+              ]
+            ],
+            "start": 18371,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 34,
+            "range_list": [
+              [
+                30221,
+                30222
+              ]
+            ],
+            "start": 30221,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 34,
+            "range_list": [
+              [
+                18413,
+                18414
+              ]
+            ],
+            "start": 18413,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 34,
+            "range_list": [
+              [
+                30261,
+                30262
+              ]
+            ],
+            "start": 30261,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 35,
+            "range_list": [
+              [
+                18476,
+                18477
+              ]
+            ],
+            "start": 18476,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 35,
+            "range_list": [
+              [
+                30324,
+                30325
+              ]
+            ],
+            "start": 30324,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 35,
+            "range_list": [
+              [
+                18660,
+                18661
+              ]
+            ],
+            "start": 18660,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 35,
+            "range_list": [
+              [
+                30494,
+                30495
+              ]
+            ],
+            "start": 30494,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 35,
+            "range_list": [],
+            "start": 18848,
+            "word": ""
+          },
+          "target_text": {
+            "page": 35,
+            "range_list": [
+              [
+                30687,
+                30688
+              ]
+            ],
+            "start": 30687,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 35,
+            "range_list": [],
+            "start": 18864,
+            "word": ""
+          },
+          "target_text": {
+            "page": 35,
+            "range_list": [
+              [
+                30704,
+                30705
+              ]
+            ],
+            "start": 30704,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 35,
+            "range_list": [],
+            "start": 18921,
+            "word": ""
+          },
+          "target_text": {
+            "page": 35,
+            "range_list": [
+              [
+                30763,
+                30764
+              ]
+            ],
+            "start": 30763,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 35,
+            "range_list": [],
+            "start": 18970,
+            "word": ""
+          },
+          "target_text": {
+            "page": 35,
+            "range_list": [
+              [
+                30814,
+                30815
+              ]
+            ],
+            "start": 30814,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 35,
+            "range_list": [],
+            "start": 19041,
+            "word": ""
+          },
+          "target_text": {
+            "page": 35,
+            "range_list": [
+              [
+                30887,
+                30888
+              ]
+            ],
+            "start": 30887,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 35,
+            "range_list": [],
+            "start": 19124,
+            "word": ""
+          },
+          "target_text": {
+            "page": 35,
+            "range_list": [
+              [
+                30974,
+                30975
+              ]
+            ],
+            "start": 30974,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "left",
+            "page": 35,
+            "range_list": [],
+            "start": 19156,
+            "word": ""
+          },
+          "target_text": {
+            "page": 35,
+            "range_list": [
+              [
+                31009,
+                31010
+              ]
+            ],
+            "start": 31009,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 36,
+            "range_list": [
+              [
+                19403,
+                19404
+              ]
+            ],
+            "start": 19403,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 36,
+            "range_list": [
+              [
+                31270,
+                31271
+              ]
+            ],
+            "start": 31270,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 36,
+            "range_list": [
+              [
+                19460,
+                19461
+              ]
+            ],
+            "start": 19460,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 36,
+            "range_list": [
+              [
+                31329,
+                31330
+              ]
+            ],
+            "start": 31329,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "right",
+            "page": 36,
+            "range_list": [],
+            "start": 19524,
+            "word": ""
+          },
+          "target_text": {
+            "page": 36,
+            "range_list": [
+              [
+                31404,
+                31410
+              ]
+            ],
+            "start": 31404,
+            "word": "● ●  ●"
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "right",
+            "page": 36,
+            "range_list": [],
+            "start": 19530,
+            "word": ""
+          },
+          "target_text": {
+            "page": 36,
+            "range_list": [
+              [
+                31418,
+                31421
+              ]
+            ],
+            "start": 31418,
+            "word": "● ●"
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "insert",
+          "origin_text": {
+            "direction": "right",
+            "page": 36,
+            "range_list": [],
+            "start": 19534,
+            "word": ""
+          },
+          "target_text": {
+            "page": 36,
+            "range_list": [
+              [
+                31429,
+                31432
+              ]
+            ],
+            "start": 31429,
+            "word": "● ●"
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 36,
+            "range_list": [
+              [
+                19620,
+                19621
+              ]
+            ],
+            "start": 19620,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 36,
+            "range_list": [
+              [
+                31527,
+                31528
+              ]
+            ],
+            "start": 31527,
+            "word": ""
+          }
+        },
+        {
+          "content_type": "other",
+          "diff_type": "replace",
+          "origin_text": {
+            "page": 36,
+            "range_list": [
+              [
+                19641,
+                19642
+              ]
+            ],
+            "start": 19641,
+            "word": "V"
+          },
+          "target_text": {
+            "page": 36,
+            "range_list": [
+              [
+                31550,
+                31551
+              ]
+            ],
+            "start": 31550,
+            "word": ""
+          }
+        }
+      ],
+      "similar_score": 0.784
+    },
+    "origin_file": "upload/f54ff286-9efc-11ea-bddc-02420a007833_ocr.pdf",
+    "target_file": "upload/f5749c26-9efc-11ea-bddc-02420a007833.pdf"
+  },
+  "source_file_name": "样本.pdf",
+  "source_file_size": 13202958,
+  "source_file_type": 1,
+  "source_modify_time": 1590576050.2730384,
+  "source_unique_name": "f54ff286-9efc-11ea-bddc-02420a007833_ocr",
+  "status": 5,
+  "status_name": "禁用",
+  "target_file_name": "中原银行XXXX项目系统测试服务合同工作说明书示例（优秀模板，可作参考）.pdf",
+  "target_file_size": 1015407,
+  "target_file_type": 0,
+  "target_modify_time": 1590461954.2,
+  "target_unique_name": "f5749c26-9efc-11ea-bddc-02420a007833"
+}
